@@ -23,11 +23,11 @@
 				</dict>
 			</array>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.defaults.managed.7D7386F6-EE10-4CBE-AAA0-54E495C2D2BA</string>
+			<string>com.apple.defaults.managed. F75FA7DE-0C6B-4381-8230-BF68C9452216</string>
 			<key>PayloadType</key>
 			<string>com.apple.defaults.managed</string>
 			<key>PayloadUUID</key>
-			<string>7D7386F6-EE10-4CBE-AAA0-54E495C2D2BA</string>
+			<string>F75FA7DE-0C6B-4381-8230-BF68C9452216</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -43,7 +43,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>C428B566-C47D-4236-A6F7-A75D9E8EF3F6</string>
+	<string>155ED10D-31C8-41EC-90D8-98D5FC39359D</string>
 	<key>PayloadVersion</key>
 	<integer>2</integer>
 </dict>
